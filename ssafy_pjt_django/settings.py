@@ -113,6 +113,8 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:5174',
     'http://127.0.0.1:3000',
     'http://localhost:3000',
+    'http://3.34.196.175',
+    'http://i10a101.p.ssafy.io',
 ]
 
 ROOT_URLCONF = 'ssafy_pjt_django.urls'
