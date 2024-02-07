@@ -37,7 +37,7 @@ CLIENT_SECRET = env('SECRET')
 EMAIL_PASSWORD = env('EMAIL_PASSWORD')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["*"]
 
